@@ -17,7 +17,6 @@ def reverse_number(n):
 
 print(reverse_number(n))
 
-# TODO
-#difference between single / and double //
+# TODO: difference between single / and double //
 
 

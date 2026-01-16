@@ -11,9 +11,8 @@ def len_number(n):
     number = n
     while number > 0:
         len_count = len_count+1
+#TODO: floor division concept
         number = number//10
     return len_count
 
 print(len_number(n))
-
-# floor division concept

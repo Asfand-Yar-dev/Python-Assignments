@@ -12,8 +12,7 @@ def check_isprime(number):
         if number%i==0:
             return False
     return True
-#TODO
-# should be in function of below
+#TODO: should be in function of below
 prime_list = []
 for num in range(1,number+1):
     if check_isprime(num):

@@ -15,3 +15,4 @@ def largest_list(number):
     return second
 number = [1,1,1]
 print("Second largest number is:", largest_list(number))
+# Output: Second largest number is: -inf
